@@ -1,4 +1,4 @@
-/*      
+      
 *       template <class placeholder> return-data-type function_name(parameters)
 *       
 *       For Example: template <class X> X add(X &a, X &b)
@@ -25,6 +25,6 @@
 *    #include<unordered_set>                    //for unordered_set
 *    #include<utility>                          //for utility functions such as pair
 *    #include <cstdio>                          //for input output
-*/
+
 
 for further details search for each header files at geeksforgeeks.
